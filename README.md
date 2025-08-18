@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi there 👋, I’m **Hillary Oduor**  
-💻 Passionate **Software Engineer** | 🌍 Based in Nairobi, Kenya  
+Hi there 👋, 
+I’m  a 💻 Passionate **Software Engineer** | 🌍 Based in Nairobi, Kenya  
 
 🚀 I specialize in designing and developing **scalable web, mobile, and SaaS applications**.  
 My work blends **software engineering principles, database administration, and AI concepts** to create secure, efficient, and user-friendly solutions.  
