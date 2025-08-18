@@ -18,7 +18,8 @@ I enjoy solving **real-world problems with technology** — from **custom CRMs a
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 
 **🎨 UI/UX:**  
-ShadCN UI | Figma  
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111111?logo=shadcnui&logoColor=white&style=flat)
+
 
 **⚙️ Dev Tools & Package Managers:**  
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)  
