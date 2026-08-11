@@ -49,7 +49,7 @@ Tools Used: `React` `Express.js` `MongoDB` `TypeScript` `Tailwind CSS`
 ### Pvault - Password Vault
 A secure password management application built to store and manage passwords safely. Designed with encryption and user authentication in mind.
 
-[Live Demo Link](https://pvault-v2.vercel.app/) · [Source Code](https://github.com/hillaryoduor/pvault)  
+[Live Demo Link](https://pvault-v2.vercel.app/) 
 Tools Used: `React` `Express.js` `MongoDB` `TypeScript` `Tailwind CSS`
 
 ---
