@@ -1,51 +1,87 @@
-About Me
+# Hi, I'm Hillary Oduor
 
-Hi there, I'm Hillary – a software engineer based in Nairobi, Kenya.
+I'm a software engineer based in Nairobi, Kenya. I build web, mobile, and desktop applications that solve real problems.
 
-I specialize in designing and developing scalable web, mobile, and SaaS applications. My work brings together software engineering fundamentals, database administration, and practical AI applications to build secure, efficient, and user-friendly solutions.
+My work spans the full development lifecycle, from designing system architecture and building user interfaces to setting up databases and deploying applications. I enjoy working across the stack and learning new technologies along the way.
 
-I'm driven by solving real-world problems through technology – whether that means building custom CRMs and SaaS platforms for small businesses, developing visitor management systems, or creating data analysis tools that help people make better decisions.
-Tech Stack
+---
 
-Web Development
-React  • JavaScript • TypeScript • PHP • HTML5 • CSS3
+## Technologies I Work With
 
-Databases
-MongoDB • MySQL
+**Frontend**  
+`React` · `JavaScript` · `TypeScript` · `HTML5` · `CSS3` · `Tailwind CSS`
 
-Development Tools
-Expo • npm • pnpm
+**Backend**  
+`Node.js` · `Express.js` · `Python` · `FastAPI` · `PHP`
 
-Backend & APIs
-Node.js • Express 
+**Mobile**  
+`Flutter` · `React Native` · `Expo`
 
-Data Science & AI
-NumPy • Pandas • PyTorch • scikit-learn • TensorFlow • Matplotlib
+**Databases**  
+`MongoDB` · `MySQL` · `SQLite`
 
-Mobile Development
-Flutter
+**Desktop**  
+`PySide6` · `PyInstaller`
 
-Deployment & CI/CD
-Vercel • Render • GitHub Actions 
+**Tools & Deployment**  
+`Vercel` · `Render` · `npm` · `pnpm` · `Git`
 
-Programming Languages
-Javascript • Python
+---
 
-Featured Projects
+## Featured Projects
 
-SaaS Platform for SMEs – An all-in-one platform combining CRM, POS, finance, and payroll systems for small to medium businesses.
+### Landscapes Integrity Solutions (LIS)
+An independent think tank platform advancing policy and governance for sustainable landscapes. Combines research with practical implementation strategies to address environmental challenges.
 
-D-Analyzer – An automated dataset analysis tool built with Next.js and Python.
+[Live Demo Link](https://landscapes-integrity-solutions.vercel.app/)  
+Tools Used: `React` `Express.js` `MongoDB` `TypeScript` `Tailwind CSS`
 
-Smart Visitor Management System – A progressive web app prototype for visitor identification and check-in logging.
+---
 
-Messaging Application – A React Native app integrated with Africa's Talking API for SMS functionality and M-Pesa payment processing.
+### ICTA Sample Portal
+A demonstration portal showcasing ICTA's mandate — enforcing ICT standards in government, establishing secure infrastructure, supervising communications, and promoting digital literacy and innovation.
 
-Multi-Site CMS – A centralized content management system capable of handling multiple websites from a single dashboard.
-GitHub Stats
+[Live Demo Link](https://icta-sample.vercel.app/)  
+Tools Used: `React` `Express.js` `MongoDB` `TypeScript` `Tailwind CSS`
 
-https://nirzak-streak-stats.vercel.app/?user=hillaryoduor1&theme=dark&hide_border=false
+---
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=hillaryoduor1&theme=dark&hide_border=false&layout=compact
+### Pvault - Password Vault
+A secure password management application built to store and manage passwords safely. Designed with encryption and user authentication in mind.
 
-Profile Views
+[Live Demo Link](https://pvault-v2.vercel.app/) · [Source Code](https://github.com/hillaryoduor/pvault)  
+Tools Used: `React` `Express.js` `MongoDB` `TypeScript` `Tailwind CSS`
+
+---
+
+### ICTA Access Control System
+A comprehensive desktop application for managing access control in institutional facilities. Features include employee and visitor management, access log tracking, real-time dashboard analytics, offline mode with sync capabilities, and role-based authentication.
+
+ [Download Installer (v1.2.0, 106 MB)](/installer/ICTA_Access_Control_Setup_v1.2.0.exe)  
+Tools Used: `Python` `PySide6` `SQLite` `MongoDB` `FastAPI` `JWT`
+
+---
+
+## GitHub Stats
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=hillaryoduor1&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hillaryoduor1&theme=dark&hide_border=false&layout=compact)
+
+---
+
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=hillaryoduor1&color=blue&style=flat)
+
+---
+
+## Let's Connect
+
+- Portfolio: [hillaryoduor](https://hillary-porfolio-v2.vercel.app/)
+- GitHub: [github.com/hillaryoduor1](https://github.com/hillaryoduor1)
+- Email: hillaryoduor0@gmail.com
+
+---
+
+> *Building things that matter, one commit at a time.*
