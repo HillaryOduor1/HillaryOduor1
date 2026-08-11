@@ -63,9 +63,8 @@ Tools Used: `Python` `PySide6` `SQLite` `MongoDB` `FastAPI` `JWT`
 ---
 
 ## GitHub Stats
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=hillaryoduor1&theme=dark&hide_border=false)](https://github.com/hillaryoduor1)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hillaryoduor1&theme=dark&hide_border=false&layout=compact)](https://github.com/hillaryoduor1)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hillaryoduor1&theme=dark&hide_border=false)](https://github.com/hillaryoduor1)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hillaryoduor1&theme=dark&hide_border=false&layout=compact)](https://github.com/hillaryoduor1)   
 
 ---
 
