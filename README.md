@@ -14,9 +14,6 @@ My work spans the full development lifecycle, from designing system architecture
 **Backend**  
 `Node.js` · `Express.js` · `Python` · `FastAPI` · `PHP`
 
-**Mobile**  
-`Flutter` · `React Native` · `Expo`
-
 **Databases**  
 `MongoDB` · `MySQL` · `SQLite`
 
